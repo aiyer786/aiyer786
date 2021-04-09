@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - :man_technologist: Full Stack Web developer
 - :man_office_worker: Entrepreneur head @DSC-RAIT
-- :cowboy_hat_face: Flutter Enthusiast
+- :cowboy_hat_face: Flutter Enthusiast.
 - :sunglasses: looking forward to contribute to open-source projects.
 - :star_struck: Ask me about movies
 - :necktie: Tech:
