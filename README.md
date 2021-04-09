@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - :sunglasses: looking forward to contribute to open-source projects.
 - :star_struck: Ask me about movies
 - :necktie: Tech:
-- ![alt text](https://imgur.com/t9qP4pO)
+- ![alt text](https://i.imgur.com/t9qP4pO.png)
 
