@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - :star_struck: Ask me about movies
 - :necktie: Tech:
 
-![alt text](https://i.imgur.com/t9qP4pO.png) | ![alt text](https://i.imgur.com/M7g6J8l.png) | ![alt text](https://i.pinimg.com/originals/be/d3/0d/bed30ddfa5d434e827c775ac9a3b0d38.jpg)
+<!--![alt text](https://i.imgur.com/t9qP4pO.png) | ![alt text](https://i.imgur.com/M7g6J8l.png) | ![alt text](https://i.pinimg.com/originals/be/d3/0d/bed30ddfa5d434e827c775ac9a3b0d38.jpg) -->
+
+<a href="(https://i.imgur.com/t9qP4pO.png"><img src="(https://i.imgur.com/t9qP4pO.png" width=40px height=40px title="source: imgur.com" /></a> | <a href="(https://i.imgur.com/M7g6J8l.png"><img src="(https://i.imgur.com/M7g6J8l.png" width=40px height=40px title="source: imgur.com" /></a>| --- |
 
 Contact me 
