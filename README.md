@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**aiyer786/aiyer786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aiyer786/aiyer786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - :star_struck: Ask me about movies
 - :necktie: Tech:
 - ![alt text](https://imgur.com/t9qP4pO)
--->
+
