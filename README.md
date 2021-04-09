@@ -8,7 +8,7 @@
 - :man_technologist: Full Stack Web developer
 - :man_office_worker: Entrepreneur head @DSC-RAIT
 - :cowboy_hat_face: Flutter Enthusiast.
-- :sunglasses: looking forward to contribute to open-source projects.
+- :sunglasses: Looking forward to contribute to open-source projects.
 - :star_struck: Ask me about movies
 - :necktie: Technologies I use currently:
 
