@@ -20,6 +20,6 @@
 
 ### :fist_right::fist_left: Let's connect 
 
-<a href="https://www.linkedin.com/in/aditya-iyer-a2787aa7/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/AdityaI72568947?s=09" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a>
+<a href="https://www.linkedin.com/in/aditya-iyer-a2787aa7/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="LinkedIn" /></a> &nbsp;  <a href="https://twitter.com/AdityaI72568947?s=09" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="Twitter" /></a>  &nbsp;  <a href="https://instagram.com/addy_west_side" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/I/instagram-logo-041EABACE1-seeklogo.com.png" width=40px height=40px title="Instagram" /></a>
 
 
