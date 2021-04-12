@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Addy west side welcomes you!
 
 <!--
 **aiyer786/aiyer786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### :cowboy_hat_face: Addy west side welcomes you
+
 
 ### Things you should know about me:
 
