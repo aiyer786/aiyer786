@@ -5,12 +5,15 @@
 
 ### :cowboy_hat_face: Addy west side welcomes you
 
+###Things you should know about me:
+
 - :man_technologist: Full Stack Web developer
 - :man_office_worker: Entrepreneur head @DSC-RAIT
 - :cowboy_hat_face: Flutter Enthusiast.
 - :sunglasses: Looking forward to contribute to open-source projects.
 - :star_struck: Ask me about movies
-- :necktie: Technologies I use currently:
+
+###Technologies I use currently:
 
 <!--![alt text](https://i.imgur.com/t9qP4pO.png) | ![alt text](https://i.imgur.com/M7g6J8l.png) | ![alt text](https://i.pinimg.com/originals/be/d3/0d/bed30ddfa5d434e827c775ac9a3b0d38.jpg) -->
 
