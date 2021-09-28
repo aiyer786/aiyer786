@@ -8,7 +8,7 @@
 ### Things you should know about me:
 
 - :man_technologist: Full Stack Web developer
-- :man_office_worker: Entrepreneur head @DSC-RAIT
+- :man_office_worker: Lead @GDSC-RAIT
 - :cowboy_hat_face: Flutter Enthusiast.
 - :sunglasses: Looking forward to contribute to open-source projects.
 - :star_struck: Ask me about movies
