@@ -1,28 +1,23 @@
-### Hi there 👋 Addy west side welcomes you!
+### Hi there 👋 Addy West Side welcomes you!
 
 <!--
-**aiyer786/aiyer786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-
+**aiyer786/aiyer786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Things you should know about me:
 
-- :man_technologist: Full Stack Web developer
-- :man_office_worker: Lead @GDSC-RAIT
-- :cowboy_hat_face: Flutter Enthusiast.
-- :sunglasses: Looking forward to contribute to open-source projects.
-- :star_struck: Ask me about movies
+- 👨‍💻 Data Engineer & Full-Stack Developer
+- ✨ Experienced in building end-to-end data pipelines and scalable web applications
+- 🌐 Passionate about Big Data, Cloud Technologies, and Interactive Analytics
+- 🔍 Focused on creating impactful data-driven solutions
+- 🎥 Ask me about movies or tech trends!
 
 ### Technologies I use currently:
 
-<!--![alt text](https://i.imgur.com/t9qP4pO.png) | ![alt text](https://i.imgur.com/M7g6J8l.png) | ![alt text](https://i.pinimg.com/originals/be/d3/0d/bed30ddfa5d434e827c775ac9a3b0d38.jpg) -->
-
-| <a href="https://imgur.com/t9qP4pO.png"><img src="https://i.imgur.com/t9qP4pO.png" width=40px height=40px title="source: imgur.com" /></a> | <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AUnofficial_JavaScript_logo_2.svg&psig=AOvVaw0p9n_GMci7CJU3Vr43EEtw&ust=1618072255424000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjTxILL8e8CFQAAAAAdAAAAABAD"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width=40px height=40px title="js" /></a>| <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABootstrap_logo.svg&psig=AOvVaw3hJ9_Mw2Haw-ccBMdSG3e-&ust=1618072164792000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjw9d3K8e8CFQAAAAAdAAAAABAD"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" width=40px height=40px title="Bootstrap" /></a>| <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3schools.in%2Fcss3%2Fcss-marquee%2F&psig=AOvVaw1q4IoXR4EOKdzFU4dVc3Yz&ust=1618072367511000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCgxb7L8e8CFQAAAAAdAAAAABAP"><img src="https://www.w3schools.in/wp-content/uploads/css-logo.png" width=40px height=40px title="CSS" /></a> |  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeneric-ui.com%2Fgrid-for-jquery&psig=AOvVaw2yuP3rZyHvLa4gZpAxpWFa&ust=1618072742015000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCgmOvM8e8CFQAAAAAdAAAAABAw"><img src="https://generic-ui.com/assets/images/platform-logos/jquery.logo.jpg" width=40px height=40px title="jQuery" /></a> | <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.php.net%2Fdownload-logos.php&psig=AOvVaw3ngvgyyCpCioWxXaDoUlt_&ust=1618073518561000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCNjt3P8e8CFQAAAAAdAAAAABAD"><img src="https://www.php.net/images/logos/new-php-logo.svg" width=40px height=40px title="source: imgur.com" /></a> | <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fc-programming&psig=AOvVaw3MMrvNebrWxYZmvHqxweYh&ust=1618072521187000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD61YLM8e8CFQAAAAAdAAAAABAD"><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width=40px height=40px title="C" /></a> |  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw3MMrvNebrWxYZmvHqxweYh&ust=1618072521187000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD61YLM8e8CFQAAAAAdAAAAABAI"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width=40px height=40px title="C++" /></a> |  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FMySQL&psig=AOvVaw0sR5nkjVJoMgLiQYg_rmDv&ust=1618323903456000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDBgL70-O8CFQAAAAAdAAAAABAD"><img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width=40px height=40px title="MySQL" /></a> |  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ADart-logo.png&psig=AOvVaw3ILIIWPMxo24IYPs2vZCHl&ust=1618324007290000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi6ve_0-O8CFQAAAAAdAAAAABAJ"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" width=40px height=40px title="source: DART" /></a> |
+<!-- Tech stack redesigned to better reflect data engineering and full-stack work -->
+| <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=40px height=40px title="Python" /></a> | <a href="https://aws.amazon.com/"><img src="https://i.imgur.com/AEnjpha.png" width=40px height=40px title="AWS" /></a> | <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=40px height=40px title="JavaScript" /></a> | <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width=40px height=40px title="React.js" /></a> | <a href="https://getdbt.com/"><img src="https://i.imgur.com/eNfoJ0p.png" width=40px height=40px title="dbt" /></a> | <a href="https://dagster.io/"><img src="https://i.imgur.com/UHyCUDi.png" width=40px height=40px title="Dagster" /></a> | <a href="https://cloud.google.com/"><img src="https://i.imgur.com/NuA6tzu.png" width=40px height=40px title="GCP" /></a> | <a href="https://sql.com/"><img src="https://i.imgur.com/M7CkNJB.png" width=40px height=40px title="SQL" /></a> | <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width=40px height=40px title="Postgres" /></a> | <a href="https://www.tableau.com/"><img src="https://i.imgur.com/X7mnCai.png" width=40px height=40px title="Tableau" /></a> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
 
 ### :fist_right::fist_left: Let's connect 
 
-<a href="https://www.linkedin.com/in/aditya-iyer-a2787aa7/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="LinkedIn" /></a> &nbsp;  <a href="https://twitter.com/AdityaI72568947?s=09" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="Twitter" /></a>  &nbsp;  <a href="https://instagram.com/addy_west_side" target="_blank" rel="noopener noreferrer"><img src="https://seeklogo.com/images/I/instagram-logo-041EABACE1-seeklogo.com.png" width=40px height=40px title="Instagram" /></a>
-
+<a href="https://www.linkedin.com/in/aditya-siyer" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="LinkedIn" /></a> &nbsp;  
 
