@@ -5,17 +5,37 @@
 
 ### Things you should know about me:
 
-- 👨‍💻 Data Engineer & Full-Stack Developer
-- ✨ Experienced in building end-to-end data pipelines and scalable web applications
-- 🌐 Passionate about Big Data, Cloud Technologies, and Interactive Analytics
-- 🔍 Focused on creating impactful data-driven solutions
-- 🎥 Ask me about movies or tech trends!
+- 👨‍💻 **Data Engineer & Full-Stack Web Developer**  
+- 🌟 Passionate about building scalable data pipelines, interactive analytics, and solving real-world problems through code.  
+- 🌐 Excited about Big Data analytics, Cloud technologies, and contributing to innovative projects.  
+- 🎥 Ask me about movies, and we’ll talk for hours! 😄  
 
-### Technologies I use currently:
+---
 
-<!-- Tech stack redesigned to better reflect data engineering and full-stack work -->
-| <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=40px height=40px title="Python" /></a> | <a href="https://aws.amazon.com/"><img src="https://i.imgur.com/AEnjpha.png" width=40px height=40px title="AWS" /></a> | <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=40px height=40px title="JavaScript" /></a> | <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width=40px height=40px title="React.js" /></a> | <a href="https://getdbt.com/"><img src="https://i.imgur.com/eNfoJ0p.png" width=40px height=40px title="dbt" /></a> | <a href="https://dagster.io/"><img src="https://i.imgur.com/UHyCUDi.png" width=40px height=40px title="Dagster" /></a> | <a href="https://cloud.google.com/"><img src="https://i.imgur.com/NuA6tzu.png" width=40px height=40px title="GCP" /></a> | <a href="https://sql.com/"><img src="https://i.imgur.com/M7CkNJB.png" width=40px height=40px title="SQL" /></a> | <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width=40px height=40px title="Postgres" /></a> | <a href="https://www.tableau.com/"><img src="https://i.imgur.com/X7mnCai.png" width=40px height=40px title="Tableau" /></a> |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+### 🛠 Tools & Technologies I Work With:
+
+#### 🚀 **Programming Languages**  
+- Python, SQL, JavaScript  
+
+#### 🌐 **Frontend Development**  
+- React.js, HTML5, CSS3  
+
+#### 🏗 **Backend Development**  
+- Node.js, Express.js  
+
+#### 📊 **Data Engineering & Analytics**  
+- dbt (Data Build Tool), Dagster, BigQuery, Postgres, Snowflake, Tableau  
+
+#### ☁️ **Cloud Technologies**  
+- Google Cloud Platform (GCP), AWS (S3, Redshift)  
+
+#### 💾 **Databases & Data Warehousing**  
+- MySQL, PostgreSQL, BigQuery, Snowflake  
+
+#### 🛠 **Development Tools**  
+- Git, CI/CD Pipelines, Jupyter Notebooks  
+
+---
 
 ### :fist_right::fist_left: Let's connect 
 
